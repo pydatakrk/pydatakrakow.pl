@@ -9,7 +9,8 @@ Find us on:
 - [Meetup](https://www.meetup.com/pydata-krakow/)
 - [LinkedIn](https://www.linkedin.com/company/pydata-krak%C3%B3w)
 - [Facebook](https://www.facebook.com/pydatakrakow)
-- 
+
+
 ---
 
 PyData is a trademark of NumFocus
