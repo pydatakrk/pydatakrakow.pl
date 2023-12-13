@@ -1,5 +1,6 @@
 # PyData Kraków
 
+![logo](./logo.png)
 
 PyData Kraków is a community of Data and ML enthusiats in Kraków, part of the [PyData.org](https://pydata.org) network.
 
